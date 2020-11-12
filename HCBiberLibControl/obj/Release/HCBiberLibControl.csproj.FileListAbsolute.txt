@@ -1,0 +1,15 @@
+D:\HCBiber.Source\HCBiberLib\HCBiberLibControl\bin\Release\HCBiberLibControl.dll
+D:\HCBiber.Source\HCBiberLib\HCBiberLibControl\bin\Release\HCBiberLibControl.pdb
+D:\HCBiber.Source\HCBiberLib\HCBiberLibControl\obj\Release\HCBiberLibControl.Frm_HCBiberTemplate.resources
+D:\HCBiber.Source\HCBiberLib\HCBiberLibControl\obj\Release\HCBiberLibControl.csproj.GenerateResource.cache
+D:\HCBiber.Source\HCBiberLib\HCBiberLibControl\obj\Release\HCBiberLibControl.csproj.CoreCompileInputs.cache
+D:\HCBiber.Source\HCBiberLib\HCBiberLibControl\obj\Release\HCBiberLibControl.dll
+D:\HCBiber.Source\HCBiberLib\HCBiberLibControl\obj\Release\HCBiberLibControl.pdb
+Z:\HCBiber.Source\HCBiberLib\HCBiberLibControl\bin\Release\HCBiberLibControl.dll
+Z:\HCBiber.Source\HCBiberLib\HCBiberLibControl\bin\Release\HCBiberLibControl.pdb
+Z:\HCBiber.Source\HCBiberLib\HCBiberLibControl\obj\Release\HCBiberLibControl.csprojAssemblyReference.cache
+Z:\HCBiber.Source\HCBiberLib\HCBiberLibControl\obj\Release\HCBiberLibControl.Frm_HCBiberTemplate.resources
+Z:\HCBiber.Source\HCBiberLib\HCBiberLibControl\obj\Release\HCBiberLibControl.csproj.GenerateResource.cache
+Z:\HCBiber.Source\HCBiberLib\HCBiberLibControl\obj\Release\HCBiberLibControl.csproj.CoreCompileInputs.cache
+Z:\HCBiber.Source\HCBiberLib\HCBiberLibControl\obj\Release\HCBiberLibControl.dll
+Z:\HCBiber.Source\HCBiberLib\HCBiberLibControl\obj\Release\HCBiberLibControl.pdb

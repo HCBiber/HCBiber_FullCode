@@ -1,0 +1,10 @@
+D:\HCBiber.Source\HCBiberLib\HCBiberLib\bin\Release\HCBiberLib.dll
+D:\HCBiber.Source\HCBiberLib\HCBiberLib\bin\Release\HCBiberLib.pdb
+D:\HCBiber.Source\HCBiberLib\HCBiberLib\obj\Release\HCBiberLib.csproj.CoreCompileInputs.cache
+D:\HCBiber.Source\HCBiberLib\HCBiberLib\obj\Release\HCBiberLib.dll
+D:\HCBiber.Source\HCBiberLib\HCBiberLib\obj\Release\HCBiberLib.pdb
+Z:\HCBiber.Source\HCBiberLib\HCBiberLib\bin\Release\HCBiberLib.dll
+Z:\HCBiber.Source\HCBiberLib\HCBiberLib\bin\Release\HCBiberLib.pdb
+Z:\HCBiber.Source\HCBiberLib\HCBiberLib\obj\Release\HCBiberLib.csproj.CoreCompileInputs.cache
+Z:\HCBiber.Source\HCBiberLib\HCBiberLib\obj\Release\HCBiberLib.dll
+Z:\HCBiber.Source\HCBiberLib\HCBiberLib\obj\Release\HCBiberLib.pdb

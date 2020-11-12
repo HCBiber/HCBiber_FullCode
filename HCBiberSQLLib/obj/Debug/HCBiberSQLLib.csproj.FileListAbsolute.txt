@@ -1,0 +1,10 @@
+D:\HCBiber.Source\HCBiberLib\HCBiberSQLLib\bin\Debug\HCBiberSQLLib.dll
+D:\HCBiber.Source\HCBiberLib\HCBiberSQLLib\bin\Debug\HCBiberSQLLib.pdb
+D:\HCBiber.Source\HCBiberLib\HCBiberSQLLib\obj\Debug\HCBiberSQLLib.csproj.CoreCompileInputs.cache
+D:\HCBiber.Source\HCBiberLib\HCBiberSQLLib\obj\Debug\HCBiberSQLLib.dll
+D:\HCBiber.Source\HCBiberLib\HCBiberSQLLib\obj\Debug\HCBiberSQLLib.pdb
+Z:\HCBiber.Source\HCBiberLib\HCBiberSQLLib\bin\Debug\HCBiberSQLLib.dll
+Z:\HCBiber.Source\HCBiberLib\HCBiberSQLLib\bin\Debug\HCBiberSQLLib.pdb
+Z:\HCBiber.Source\HCBiberLib\HCBiberSQLLib\obj\Debug\HCBiberSQLLib.csproj.CoreCompileInputs.cache
+Z:\HCBiber.Source\HCBiberLib\HCBiberSQLLib\obj\Debug\HCBiberSQLLib.dll
+Z:\HCBiber.Source\HCBiberLib\HCBiberSQLLib\obj\Debug\HCBiberSQLLib.pdb
